@@ -1,6 +1,6 @@
 This folder contains files for P0: Analyze Bay Area Bike Share Data.
 
-Bay\_Area\_Bike\_Share\_Analysis.ipynb - Main project file.
+[Bay\_Area\_Bike\_Share\_Analysis.ipynb](https://github.com/sunpochin/dand-p0-bike-share-analysis/blob/master/Bay_Area_Bike_Share_Analysis.ipynb) - Main project file.
 
 babs\_datacheck.py; babs\_visualizations.py - Supplemental scripts for checking
 data wrangling, reporting of basic statistics, and creation of exploratory bar
@@ -21,3 +21,5 @@ system.
 
 \*\_weather\_data.csv - Weather information by day for one station in each
 city in the bike share program.
+
+
