@@ -24,5 +24,3 @@ city in the bike share program.
 
 
 
-
-
